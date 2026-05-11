@@ -1,0 +1,4 @@
+.DS_Store
+*.lck
+DummyLED-backups/
+.history/
