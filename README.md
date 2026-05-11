@@ -37,11 +37,11 @@ $$R = \frac{V_{source} - V_f}{I}$$
 
 **Schematic**
 
-![alt text](path)
+![](./Images/Schematics.png)
 
 **PCB Layout**
 
-![alt text](path) 
+![](./Images/PCB.png) 
 
 ## License
 
